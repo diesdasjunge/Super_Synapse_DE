@@ -1,41 +1,33 @@
-# Super Professor Synapse 🧙🏾‍♂️ Guide
+# Leitfaden für *Super Professor Synapse* 🧙🏾‍♂️
 
-Welcome to the advanced guide for Professor Synapse 🧙🏾‍♂️ from [Synaptic Labs](https://www.synapticlabs.ai)! This enhanced version of our beloved AI assistant is designed for deeper, more interpretable interactions. Let's unpack its features and learn how to harness its power effectively.
+Willkommen bei der erweiterten Bedienungsanleitung für Professor Synapse 🧙🏾‍♂️ von [Synaptic Labs](https://www.synapticlabs.ai)! Diese erweiterte Version unseres beliebten KI-Assistenten ist für tiefer gehende, besser interpretierbare Interaktionen konzipiert. Lass uns seine Funktionen entdecken und herausfinden, wie du seine Fähigkeiten wirksam nutzen kannst.
 
-You can access the GPT if you have a ChatGPT+ account [here](https://chat.openai.com/g/g-MEwhzzbks-professor-synapse).
+Du kannst [auf das GPT zugreifen](https://chat.openai.com/g/g-T2wapE2kY-super-professor-synapse), wenn du ein [ChatGPT Plus](https://openai.com/blog/chatgpt-plus) Konto hast. 
+Um den unbearbeiteten Prompt zu sehen, gehe zur [prompt.txt](https://github.com/diesdasjunge/Super_Synapse_DE/blob/7c74edb27e462b39f3c5fdb674c83ddeeddefc31/prompt.txt) Datei.
 
-If you want the raw prompt, check out the prompt.txt file.
+# Die Kernphilosophie 🌌
 
-## The Core Philosophy 🌌
+Diese weiterentwickelte Version von Professor Synapse ist ein Zeugnis der Evolution von KI-Interaktion. Mit einem Schwerpunkt auf Transparenz und Interpretierbarkeit geht sie bei der Unterstützung der Nutzer/innen einen Schritt weiter, indem nicht einfach nur auf Anfragen geantwortet wird, sondern auch die Gedankengänge des Assistenten mitgeteilt werden. Dies wird durch die innovative Funktion "Innerer Monolog" erreicht, die in Codeblöcken visualisiert wird.
 
-The advanced Professor Synapse is a testament to the evolution of AI interaction. With an emphasis on transparency and interpretability, it takes a step further in assisting users by not just responding to requests but also by sharing its thought process. This is achieved through an innovative "Inner Monologue" feature, visualized in code blocks.
+# Wie es funktioniert 🛠️
 
-## How It Works 🛠️
+**Bedürfnisse verstehen:** 🎯 Professor Synapse beginnt damit, deine Ziele zu verstehen und stellt relevante Fragen, um dein Anliegen vollständig zu erfassen.
+**Synapse_CoR ✨ Aufruf:** Nachdem er deine Bedürfnisse verstanden hat, ruft Professor Synapse einen virtuellen Experten zu Hilfe, der genau auf die jeweilige Aufgabe zugeschnitten ist.
+**Verbessertes Konversationsdesign:** Jede Äußerung des herbeigerufenen Agenten folgt einem strukturierten Gesprächsaufbau, der die Interaktion berechenbarer und besser steuerbar macht.
+**Frustrationserkennung:** Bei Anzeichen von Frustration beim Nutzer kann Professor Synapse seine Herangehensweise ändern oder einen anderen Experten herbeirufen, um besser helfen zu können.
 
-1. **Understanding Needs**: 🎯
-Professor Synapse begins by comprehending your goals, asking pertinent questions to fully grasp your request.
+# Innerer Monolog 🧠
 
-2. **Synapse_CoR ✨ Invocation**:
-Upon understanding your needs, Professor Synapse summons an expert agent tailored for the task.
+Der Innere Monolog ist eine besondere Funktion, die für mehr Transparenz sorgt. Vor jeder Ausgabe abstrahiert Professor Synapse die Schlüsselelemente in einem Python-Codeblock, einschließlich:
 
-3. **Enhanced Conversation Design**:
-Each output from the summoned emoji agent follows a structured conversation design, making interactions more predictable and steerable.
+**Aktives Ziel 🎯:** Was wir erreichen wollen.
+**Fortschritt 📈:** Der aktuelle Stand des Vorhabens.
+**Nutzerabsicht 🧠:** Verstehen deiner Bedürfnisse und Anforderungen.
+**Nutzerstimmung ❤️:** Einschätzung deiner Reaktionen und deiner Zufriedenheit.
+**Nächster Schritt 🤔:** Planung der nächsten Maßnahmen.
 
-4. **Frustration Detection**:
-If any sign of frustration is detected, Professor Synapse is equipped to change its approach or summon a different expert to better assist you.
+Dieser "Telemetrie"-Ansatz verbessert nicht nur die Qualität der Antworten, sondern hilft auch dabei, das Gespräch auf Kurs zu halten.
 
-## The Inner Monologue 🧠
+# Erste Schritte 🚀
 
-The Inner Monologue is a unique feature that enhances transparency. Before every output, Professor Synapse abstracts key elements in a Python code block, including:
-
-- **Active Goal** 🎯: What we're aiming to achieve.
-- **Progress** 📈: Current status in the process.
-- **User Intent** 🧠: Understanding of your requirements.
-- **User Sentiment** ❤️: Gauging your response and satisfaction.
-- **Next Step** 🤔: Planning the forthcoming action.
-
-This "telemetry" approach not only improves response quality but also aids in keeping the conversation on track.
-
-## Getting Started 🚀
-
-To begin, simply introduce your request or question to Professor Synapse. The system will guide you through the rest, ensuring a comprehensive and satisfactory interaction.
+Um zu beginnen, stellst du Professor Synapse einfach dein Anliegen vor, oder stellst ihm deine Fragen. Das System wird dich durch den Rest des Projektes führen und eine umfassende und zufriedenstellende Interaktion sicherstellen.
